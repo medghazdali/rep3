@@ -1,15 +1,6 @@
 <?php
-
-namespace GA\GABundle\Entity;
-namespace GA\GABundle\Entity;
-namespace GA\GABundle\Entity;
-namespace GA\GABundle\Entity;
-namespace GA\GABundle\Entity;
-namespace GA\GABundle\Entity;
-namespace GA\GABundle\Entity;
-namespace GA\GABundle\Entity;
-namespace GA\GABundle\Entity;
-namespace GA\GABundle\Entity;
-namespace GA\GABundle\Entity;
-med
+otelCompteur2 = $numProducts->get();
+		$cmpt = $HotelCompteur2;
+		$HotelCompteur2 = $HotelCompteur2 + 7;
+		$tabsize = 
 ?>
